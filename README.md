@@ -1,2 +1,2 @@
 # beadtrack-for-Brownian-movement
-Track the bead 
+Track the bead with human supervision
